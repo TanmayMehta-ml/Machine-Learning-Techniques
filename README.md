@@ -10,9 +10,11 @@ The course deals with mathematical details of Machine learning algorithms as wel
 Linear Regression
 ### **Week 3**
 Polynomial regression
+
 Regularised regression
 ### **Week 4**
 Least square classification
+
 Perceptron
 ### **Week 5**
 Logistic Regression
@@ -20,6 +22,7 @@ Logistic Regression
 Naive bayes
 ### **Week 7**
 Softmax Regression
+
 K Nearest Neigbours
 ### **Week 8**
 Support Vector Machines
@@ -27,6 +30,7 @@ Support Vector Machines
 Decision trees
 ### **Week 10**
 Random Forest
+
 Gradient Boosting
 ### **Week 11**
 K Means Clustering
