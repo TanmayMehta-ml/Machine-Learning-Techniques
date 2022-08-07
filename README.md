@@ -4,31 +4,31 @@ This is a collection of Jupyter notebooks I prepared in Machine Learning Techniq
 
 The course deals with mathematical details of Machine learning algorithms as well as their implemention from scratch using basic libraries like Numpy.
 
-##Table of contents
+## Table of contents
 
-Week 2
+### **Week 2**
 Linear Regression
-Week 3
+### **Week 3**
 Polynomial regression
 Regularised regression
-Week 4
+### **Week 4**
 Least square classification
 Perceptron
-Week 5
+### **Week 5**
 Logistic Regression
-Week 6
+### **Week 6**
 Naive bayes
-Week 7
+### **Week 7**
 Softmax Regression
 K Nearest Neigbours
-Week 8
+### **Week 8**
 Support Vector Machines
-Week 9
+### **Week 9**
 Decision trees
-Week 10
+### **Week 10**
 Random Forest
 Gradient Boosting
-Week 11
+### **Week 11**
 K Means Clustering
-Week 12
+### **Week 12**
 Artificial Neural Network
